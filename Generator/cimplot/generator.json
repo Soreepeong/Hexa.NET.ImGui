@@ -28,6 +28,8 @@
     "ImPlotPoint(0,0)": "*ImPlotPointNative(0,0)",
     "ImPlotRect()": "*ImPlotRectNative()",
     "ImPlotRange()": "*ImPlotRangeNative()",
+    "ImPlotSpec()": "ImPlot.DefaultSpec",
+    "IMPLOT_AUTO_COL": "new Vector4(0,0,0,-1)",
     "ImPlotCond_Once": "ImPlotCond.Once"
   },
   "IgnoredParts": [ "ImPlot" ],
